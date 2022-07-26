@@ -1,5 +1,12 @@
 ## Woven coding test
 
+### Instruction
+* Load new board or new dice number data by placing the file under the same directory of this program and change the file path in Store JSON data section.
+* Run the code by execute game(dice_number_file).
+### Additional info
+* I tried to keep the code clean and more atomic.
+* This game is still missing colour set feature for bonus rent. 
+
 Your task is to write an application to play the game of Woven Monopoly.
 
 In Woven Monopoly, when the dice rolls are set ahead of time, the game is deterministic.
